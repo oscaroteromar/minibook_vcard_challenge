@@ -16,13 +16,14 @@ The user is asked for the username and the password as an input at the begining 
 - If the user data is right but the are no contacts, a feedback message will be printed.
 - If the input user data is wrong, an error will appear and the program will end.
 
+## Requirements
+Apart from the code file, a _requirements.txt_ file has been included in this repository. These can be installed, preferably in a virtual environment, by using the next command
+```
+sudo pip3 install -r requirements.txt
+```
+
 ## Run
 In order to run the program the following command can be executed 
 ```
 python3 vcard_contact_challenge.py
 ```
-
-## Requirements
-Apart from the code file, a _requirements.txt_ file has been included in this repository. These can be installed, preferably in a virtual environment, by using the next command
-```
-sudo pip3 install -r requirements.txt
