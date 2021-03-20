@@ -11,7 +11,7 @@ cookiejar==0.0.2
 Django==3.0
 future==0.18.2
 idna==2.8
-Jinja2==2.10.3
+Jinja2==2.11.3
 jinja2-time==0.2.0
 MarkupSafe==1.1.1
 numpy==1.17.4
